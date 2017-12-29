@@ -1,0 +1,6 @@
+C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Trix\Trix\bin\Debug\Trix.exe.config
+C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Trix\Trix\bin\Debug\Trix.exe
+C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Trix\Trix\bin\Debug\Trix.pdb
+C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Trix\Trix\obj\Debug\Trix.exe
+C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Trix\Trix\obj\Debug\Trix.pdb
+C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Trix\Trix\obj\Debug\Trix.csprojResolveAssemblyReference.cache
