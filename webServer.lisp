@@ -1,6 +1,6 @@
 (define-condition foo() ()
 	(:report (lambda (condition stream)
-				(princ "Stop FOOing around, numbskull!" stream))))
+				(princ "foo/bar" stream))))
 
 (defun bad-function ()
 	(error 'foo))
